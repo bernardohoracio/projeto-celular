@@ -57,14 +57,14 @@ main {
 }
 section.redes img {
     width: 50px;
-    border-radius: 50%;
+    
     background-size: cover;
     margin: 10px;
     
     
     text-align: right;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.627);
-    box-sizing: border-box;
+    b;
 }
 
 .redes img:hover {
